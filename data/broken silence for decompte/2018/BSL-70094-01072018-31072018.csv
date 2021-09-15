@@ -1,0 +1,30 @@
+article no.;barcode;artist;title;track;ISRC;shop;type;country;qty;dealer (average);net (average);total amount
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Jesse James;BEHC61800014;Spotify;Stream;Sweden;1;0,005;0,004;0,004
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Every Once in a While;BEHC61800013;Spotify;Stream;Sweden;1;0,005;0,004;0,004
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Jesse James;BEHC61800014;Spotify;Stream;Italy;1;0,005;0,004;0,004
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Every Once in a While;BEHC61800013;Spotify;Stream;Italy;2;0,005;0,004;0,008
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Jesse James;BEHC61800014;Spotify;Stream;Germany;103;0,003;0,002;0,228
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Every Once in a While;BEHC61800013;Spotify;Stream;Germany;206;0,003;0,002;0,444
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Jesse James;BEHC61800014;Spotify;Stream;Finland;3;0,004;0,003;0,01
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Every Once in a While;BEHC61800013;Spotify;Stream;Finland;5;0,004;0,003;0,014
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Jesse James;BEHC61800014;Spotify;Stream;Austria;1;0,002;0,002;0,002
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Every Once in a While;BEHC61800013;Spotify;Stream;Austria;1;0,005;0,004;0,004
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Jesse James;BEHC61800014;Deezer;Stream;Germany;1;0,006;0,005;0,005
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Jesse James;BEHC61800014;Spotify;Stream;Switzerland;1;0,006;0,005;0,005
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Every Once in a While;BEHC61800013;Deezer;Stream;Germany;1;0,006;0,005;0,005
+"7"" 20671";3,76E+12;R,W,W, (Reggae Workers of the World);Every Once In A While / Jesse James (Lim,Ed,);Every Once in a While;BEHC61800013;Spotify;Stream;Switzerland;7;0,004;0,003;0,023
+"7"" 20672";3,76E+12;Caz Gardiner & The Badasonics;Never Gonna Let / Tic Tac Toe (Lim,Ed,);Tic Tac Toe;BEHC61800009;iTunes/Apple;Download;Russia;1;0,133;0,106;0,106
+"7"" 20672";3,76E+12;Caz Gardiner & The Badasonics;Never Gonna Let / Tic Tac Toe (Lim,Ed,);Never Gonna Let;BEHC61800003;Spotify;Stream;Germany;1;0,004;0,003;0,003
+"7"" 20672";3,76E+12;Caz Gardiner & The Badasonics;Never Gonna Let / Tic Tac Toe (Lim,Ed,);Never Gonna Let;BEHC61800003;iTunes/Apple;Download;Russia;1;0,133;0,106;0,106
+"7"" 20672";3,76E+12;Caz Gardiner & The Badasonics;Never Gonna Let / Tic Tac Toe (Lim,Ed,);Never Gonna Let;BEHC61800003;iTunes/Apple;Download;Germany;1;0,765;0,612;0,612
+LP 20673;3,76E+12;R,W,W, (Reggae Workers of the World);R,W,W, II (180Gr,/+Download);Every Once in a While;BEHC61800013;iTunes/Apple;Stream;Germany;4;0,007;0,006;0,022
+LP 20673;3,76E+12;R,W,W, (Reggae Workers of the World);R,W,W, II (180Gr,/+Download);Jesse James;BEHC61800014;iTunes/Apple;Stream;Switzerland;1;0,003;0,003;0,003
+LP 20673;3,76E+12;R,W,W, (Reggae Workers of the World);R,W,W, II (180Gr,/+Download);Jesse James;BEHC61800014;iTunes/Apple;Stream;Germany;3;0,006;0,005;0,014
+LP 20673;3,76E+12;R,W,W, (Reggae Workers of the World);R,W,W, II (180Gr,/+Download);Every Once in a While;BEHC61800013;iTunes/Apple;Stream;Switzerland;1;0,003;0,003;0,003
+;;;;;;;;;;;;
+total sales;total amount;v.a.t.;total value;;;;;;;;;
+347;1,63;0;1,63 EURO;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+RWW;0,76;0,042;;0,802;;;;;;;;
+CAZ;;;;0,827;;;;;;;;

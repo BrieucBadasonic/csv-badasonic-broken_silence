@@ -1,0 +1,219 @@
+article no.;barcode;artist;title;track;ISRC;shop;type;country;qty;dealer (average);net (average);total amount
+7' 20671;3,76023E+12;R,W,W, (Reggae Workers of the World);Every Once in a While;Jesse James;BEHC61800014;Amazon Unlimited;Stream;Germany;3;0,004;0,003;0,009
+7' 20671;3,76023E+12;R,W,W, (Reggae Workers of the World);Every Once in a While;Every Once in a While;BEHC61800013;Spotify;Stream;Sweden;2;0,004;0,003;0,006
+7' 20671;3,76023E+12;R,W,W, (Reggae Workers of the World);Every Once in a While;Every Once in a While;BEHC61800013;Spotify;Stream;Italy;1;0,002;0,001;0,001
+7' 20671;3,76023E+12;R,W,W, (Reggae Workers of the World);Every Once in a While;Every Once in a While;BEHC61800013;Spotify;Stream;Germany;4;0,003;0,002;0,009
+7' 20671;3,76023E+12;R,W,W, (Reggae Workers of the World);Every Once in a While;Jesse James;BEHC61800014;Spotify;Stream;Italy;1;0,002;0,001;0,001
+7' 20671;3,76023E+12;R,W,W, (Reggae Workers of the World);Every Once in a While;Every Once in a While;BEHC61800013;Spotify;Stream;Austria;1;0,003;0,002;0,002
+7' 20671;3,76023E+12;R,W,W, (Reggae Workers of the World);Every Once in a While;Jesse James;BEHC61800014;Spotify;Stream;Germany;3;0,003;0,002;0,007
+7' 20671;3,76023E+12;R,W,W, (Reggae Workers of the World);Every Once in a While;Every Once in a While;BEHC61800013;Amazon Unlimited;Stream;Germany;3;0,004;0,003;0,009
+7' 20671;3,76023E+12;R,W,W, (Reggae Workers of the World);Every Once in a While;Jesse James;BEHC61800014;Spotify;Stream;Austria;1;0,003;0,002;0,002
+7' 20672;3,76023E+12;Caz Gardiner & The Badasonics;Never Gonna Let;Tic Tac Toe;BEHC61800009;Spotify;Stream;Austria;1;0,001;0;0
+7' 20672;3,76023E+12;Caz Gardiner & The Badasonics;Never Gonna Let;Tic Tac Toe;BEHC61800009;iTunes/Apple;Stream;Germany;2;0,008;0,006;0,012
+7' 20672;3,76023E+12;Caz Gardiner & The Badasonics;Never Gonna Let; ;BEHC61800003;YouTube Red;Stream;Switzerland;1;0,008;0,007;0,007
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;iTunes/Apple;Stream;Italy;1;0,01;0,008;0,008
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;YouTube Red;Stream;Germany;14;0,007;0,006;0,078
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;Spotify;Stream;Germany;44;0,003;0,002;0,102
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Estonia;1;0,002;0,002;0,002
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;YouTube Red;Stream;Germany;13;0,007;0,006;0,072
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Norway;2;0,005;0,004;0,007
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;iTunes/Apple;Stream;Germany;5;0,005;0,004;0,018
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;YouTube Red;Stream;Denmark;1;0,01;0,008;0,008
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;Spotify;Stream;Denmark;1;0,005;0,004;0,004
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Denmark;3;0,005;0,004;0,011
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;YouTube Red;Stream;Denmark;1;0,01;0,008;0,008
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Italy;6;0,002;0,001;0,008
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;iTunes/Apple;Stream;Austria;7;0,005;0,004;0,027
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;YouTube;Stream;Austria;1;0,001;0,001;0,001
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;Spotify;Stream;Austria;1;0,003;0,002;0,002
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Bulgaria;1;0;0;0
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;Spotify;Stream;Switzerland;4;0,004;0,003;0,013
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Ireland;1;0;0;0
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Google Play;Stream;Germany;1;0,005;0,004;0,004
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Switzerland;11;0,003;0,003;0,028
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;iTunes/Apple;Stream;Italy;1;0,01;0,008;0,008
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Austria;4;0,002;0,002;0,008
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;Spotify;Stream;Sweden;2;0,004;0,003;0,006
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Hungary;8;0,001;0,001;0,009
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Google Play;Stream;Austria;2;0,009;0,007;0,015
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Sweden;11;0,004;0,003;0,031
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;iTunes/Apple;Stream;Germany;3;0,005;0,004;0,013
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;iTunes/Apple;Stream;Sweden;4;0,014;0,011;0,044
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;Spotify;Stream;Norway;1;0,005;0,004;0,004
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Germany;77;0,003;0,002;0,164
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Deezer;Stream;Germany;5;0,005;0,004;0,02
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Romania;4;0,002;0,001;0,005
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;iTunes/Apple;Stream;Austria;3;0,005;0,004;0,012
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;iTunes/Apple;Stream;Russia;1;0,002;0,002;0,002
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;Spotify;Stream;Italy;4;0,002;0,001;0,005
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Finland;5;0,003;0,002;0,012
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Amazon Unlimited;Stream;Germany;5;0,009;0,007;0,036
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;Wrongful Suspicion;BEHC61800029;Spotify;Stream;Poland;4;0,001;0,001;0,004
+7' 20674;3,76023E+12;The Slackers;Wrongful Suspicion;The Noose;BEHC61800030;Google Play;Stream;Germany;1;0,005;0,004;0,004
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II; ;BEHC61800024;YouTube;Stream;Poland;3;0,002;0,002;0,006
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;iTunes/Apple;Stream;Germany;3;0,005;0,004;0,012
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Eye of the Storm;BEHC61800017;Spotify;Stream;Italy;4;0,002;0,001;0,005
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;Spotify;Stream;Bulgaria;5;0,002;0,001;0,007
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Spotify;Stream;Germany;41;0,003;0,002;0,097
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;iTunes/Apple;Stream;Germany;8;0,005;0,004;0,03
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Italy;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Spotify;Stream;Greece;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;Spotify;Stream;Bulgaria;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;Amazon Unlimited;Stream;Germany;3;0,004;0,003;0,009
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;I Know a Girl;BEHC61800018;Spotify;Stream;Austria;1;0,003;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Get to Say You´re Sorry;BEHC61800021;iTunes/Apple;Stream;Germany;2;0,006;0,005;0,009
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Spotify;Stream;Greece;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;Spotify;Stream;Austria;2;0,003;0,002;0,005
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Eye of the Storm;BEHC61800017;Deezer;Stream;Germany;2;0,007;0,005;0,011
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;Amazon Unlimited;Stream;Germany;1;0,004;0,003;0,003
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Amazon Unlimited;Stream;Germany;3;0,003;0,003;0,008
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;iTunes/Apple;Stream;Germany;2;0,004;0,003;0,006
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Deezer;Stream;Germany;4;0,006;0,005;0,019
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Get to Say You´re Sorry;BEHC61800021;YouTube;Stream;Poland;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;YouTube;Stream;Austria;1;0,001;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;Deezer;Stream;Germany;2;0,007;0,005;0,011
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Eye of the Storm;BEHC61800017;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;Spotify;Stream;Austria;1;0,003;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Spotify;Stream;Cyprus;7;0,003;0,002;0,016
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Deezer;Stream;Germany;7;0,006;0,005;0,032
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Ireland;4;0,005;0,004;0,016
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Spotify;Stream;Germany;52;0,003;0,002;0,123
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;Spotify;Stream;Austria;1;0,003;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;Spotify;Stream;Germany;38;0,003;0,002;0,088
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;I Know a Girl;BEHC61800018;iTunes/Apple;Stream;Poland;3;0,001;0,001;0,004
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Get to Say You´re Sorry;BEHC61800021;Deezer;Stream;Germany;2;0,007;0,005;0,011
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Spotify;Stream;Slovakia;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Spotify;Stream;Germany;58;0,003;0,002;0,138
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;iTunes/Apple;Stream;Poland;1;0,001;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Eye of the Storm;BEHC61800017;Amazon Unlimited;Stream;Germany;2;0,004;0,003;0,006
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Spotify;Stream;Switzerland;18;0,004;0,003;0,06
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;Spotify;Stream;Slovakia;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;Spotify;Stream;Germany;31;0,003;0,002;0,074
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Deezer;Stream;Germany;2;0,007;0,005;0,011
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Amazon Unlimited;Stream;Germany;22;0,009;0,007;0,15
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Get to Say You´re Sorry;BEHC61800021;Spotify;Stream;Poland;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Spotify;Stream;Switzerland;2;0,004;0,003;0,007
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;Spotify;Stream;Slovakia;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Eye of the Storm;BEHC61800017;Spotify;Stream;Germany;19;0,003;0,002;0,045
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;iTunes/Apple;Stream;USA;1;0;0;0
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Spotify;Stream;Bulgaria;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Amazon Unlimited;Stream;Germany;1;0,004;0,003;0,003
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Hungary;2;0,002;0,002;0,003
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Spotify;Stream;Denmark;1;0,005;0,004;0,004
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;iTunes/Apple;Stream;Poland;4;0,001;0,001;0,005
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;Spotify;Stream;Austria;1;0,003;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;I Know a Girl;BEHC61800018;iTunes/Apple;Stream;Germany;3;0,004;0,003;0,009
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;Spotify;Stream;Poland;2;0,002;0,001;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Spotify;Stream;Poland;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Spotify;Stream;Finland;1;0,001;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;iTunes/Apple;Stream;Germany;5;0,005;0,004;0,021
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Switzerland;2;0,004;0,003;0,007
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Spotify;Stream;Slovakia;3;0,002;0,002;0,005
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;Spotify;Stream;Poland;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;Spotify;Stream;Austria;1;0,003;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Amazon Unlimited;Stream;Germany;1;0,004;0,003;0,003
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;I Know a Girl;BEHC61800018;Spotify;Stream;Poland;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Get to Say You´re Sorry;BEHC61800021;Spotify;Stream;Italy;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Spotify;Stream;Slovakia;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;Spotify;Stream;Poland;2;0,002;0,001;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Eye of the Storm;BEHC61800017;Spotify;Stream;Austria;1;0,003;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;iTunes/Apple;Stream;Poland;1;0,001;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Spotify;Stream;Austria;1;0,003;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;Spotify;Stream;Switzerland;2;0,004;0,003;0,007
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Germany;52;0,003;0,002;0,122
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Spotify;Stream;Bulgaria;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;iTunes/Apple;Stream;Germany;3;0,005;0,004;0,012
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;iTunes/Apple;Stream;USA;1;0;0;0
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;I Know a Girl;BEHC61800018;Deezer;Stream;Germany;2;0,007;0,005;0,011
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;Spotify;Stream;Italy;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Spotify;Stream;Italy;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Spotify;Stream;Bulgaria;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;Deezer;Stream;Germany;4;0,007;0,005;0,022
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Sweden;2;0,004;0,003;0,006
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Spotify;Stream;Poland;4;0,002;0,001;0,005
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;Spotify;Stream;Italy;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;iTunes/Apple;Stream;Poland;1;0,001;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;Spotify;Stream;Sweden;3;0,004;0,003;0,009
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;I Know a Girl;BEHC61800018;Spotify;Stream;Italy;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Get to Say You´re Sorry;BEHC61800021;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Spotify;Stream;Poland;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;Spotify;Stream;Italy;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Eye of the Storm;BEHC61800017;iTunes/Apple;Stream;USA;1;0;0;0
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;iTunes/Apple;Stream;Germany;2;0,006;0,005;0,009
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;iTunes/Apple;Stream;Poland;3;0,001;0,001;0,004
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;Spotify;Stream;Slovakia;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Finland;1;0,001;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Spotify;Stream;Austria;2;0,003;0,002;0,005
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;Google Play;Stream;Germany;1;0,005;0,004;0,004
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;iTunes/Apple;Stream;Switzerland;1;0;0;0
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;I Know a Girl;BEHC61800018;Amazon Unlimited;Stream;Germany;1;0,004;0,003;0,003
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Spotify;Stream;Austria;1;0,003;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;Amazon Unlimited;Stream;Germany;1;0,004;0,003;0,003
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Poland;5;0,002;0,001;0,006
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Spotify;Stream;Italy;2;0,002;0,001;0,003
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;iTunes/Apple;Stream;Germany;4;0,006;0,005;0,018
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;Spotify;Stream;Poland;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;I Know a Girl;BEHC61800018;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Get to Say You´re Sorry;BEHC61800021;Spotify;Stream;Germany;24;0,003;0,002;0,057
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Spotify;Stream;Italy;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Eye of the Storm;BEHC61800017;iTunes/Apple;Stream;Poland;2;0,001;0,001;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;Google Play;Stream;Germany;1;0,005;0,004;0,004
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;iTunes/Apple;Stream;Germany;5;0,004;0,003;0,017
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;Spotify;Stream;Poland;4;0,002;0,001;0,005
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Bulgaria;7;0,002;0,001;0,01
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;iTunes/Apple;Stream;Poland;3;0,001;0,001;0,004
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;Deezer;Stream;Germany;4;0,006;0,005;0,019
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;iTunes/Apple;Stream;Poland;2;0,001;0,001;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Eye of the Storm;BEHC61800017;Spotify;Stream;Poland;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;Spotify;Stream;Germany;15;0,003;0,002;0,036
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Spotify;Stream;Greece;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;iTunes/Apple;Stream;Poland;2;0,001;0,001;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;Amazon Unlimited;Stream;Austria;1;0,007;0,006;0,006
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Norway;4;0,005;0,004;0,015
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;Spotify;Stream;Germany;22;0,003;0,002;0,052
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;Deezer;Stream;Germany;4;0,007;0,005;0,021
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Danielle;BEHC61800016;Spotify;Stream;Italy;3;0,002;0,001;0,004
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;I Know a Girl;BEHC61800018;Spotify;Stream;Germany;20;0,003;0,002;0,047
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Get to Say You´re Sorry;BEHC61800021;Spotify;Stream;Austria;1;0,003;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Wonder;BEHC61800024;Spotify;Stream;Hungary;1;0,002;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Bump in the Night;BEHC61800015;Spotify;Stream;Germany;23;0,003;0,002;0,055
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Eye of the Storm;BEHC61800017;iTunes/Apple;Stream;Germany;3;0,005;0,004;0,012
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;J´attendrai;BEHC61800019;Deezer;Stream;Germany;2;0,007;0,005;0,011
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Pot of Gold;BEHC61800022;Deezer;Stream;Germany;8;0,006;0,005;0,037
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Shut Yer Mouth;BEHC61800023;Spotify;Stream;Italy;1;0,002;0,001;0,001
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Every Once in a While;BEHC61800013;Spotify;Stream;Austria;1;0,003;0,002;0,002
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Jesse James;BEHC61800014;iTunes/Apple;Stream;Germany;6;0,005;0,004;0,024
+LP 20673;3,76023E+12;R,W,W, (Reggae Workers of the World);Rww II;Never Go Home;BEHC61800020;Amazon Unlimited;Stream;Germany;2;0,003;0,003;0,005
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Go Back (no Good so & So);BEHC61800004;Spotify;Stream;Germany;4;0,003;0,002;0,009
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;The Hard Way;BEHC61800010;Spotify;Stream;Germany;4;0,003;0,002;0,009
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Feel Like Jumping;BEHC61800007;Spotify;Stream;Germany;4;0,003;0,002;0,009
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Piece of My Heart + the Train;BEHC61800011;Spotify;Stream;Germany;2;0,003;0,002;0,005
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;With You;BEHC61800006;Spotify;Stream;Germany;4;0,003;0,002;0,009
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Feel Like Jumping;BEHC61800007;Spotify;Stream;Denmark;1;0,005;0,004;0,004
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Piece of My Heart + the Train;BEHC61800011;Amazon Unlimited;Stream;Germany;1;0,009;0,007;0,007
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Wheel of Life;BEHC61800005;Spotify;Stream;Germany;6;0,003;0,002;0,014
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Be Good;BEHC61800002;Spotify;Stream;Sweden;2;0,004;0,003;0,006
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Out of Time;BEHC61800001;Spotify;Stream;Germany;6;0,003;0,002;0,014
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Tic Tac Toe;BEHC61800009;Spotify;Stream;Switzerland;2;0,004;0,003;0,007
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Be Good;BEHC61800002;Spotify;Stream;Germany;3;0,003;0,002;0,007
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Never Gonna Let;BEHC61800003;Spotify;Stream;Germany;9;0,003;0,002;0,021
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Tic Tac Toe;BEHC61800009;Spotify;Stream;Germany;8;0,003;0,002;0,019
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Be Good;BEHC61800002;Amazon Unlimited;Stream;Germany;1;0,009;0,007;0,007
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;I´m Dancing Too;BEHC61800008;Spotify;Stream;Germany;4;0,003;0,002;0,009
+LP 20675;3,76023E+12;Caz Gardiner & The Badasonics;Caz Gardiner & The Badasonics;Tic Tac Toe;BEHC61800009;Spotify;Stream;Austria;31;0,003;0,002;0,072
+LP 20676;3,76023E+12;David Hillyard & The Rocksteady Seven;Burrulero;Kingston Town;BEHC61800025;Amazon Unlimited;Stream;Germany;1;0,009;0,007;0,007
+LP 20676;3,76023E+12;David Hillyard & The Rocksteady Seven;Burrulero;Burrulero Jamaicano;BEHC61800026;Spotify;Stream;Germany;1;0,003;0,002;0,002
+LP 20676;3,76023E+12;David Hillyard & The Rocksteady Seven;Burrulero;So Long Cedric;BEHC61800027;Spotify;Stream;Sweden;2;0,001;0;0,001
+LP 20676;3,76023E+12;David Hillyard & The Rocksteady Seven;Burrulero;So Long Cedric;BEHC61800027;Spotify;Stream;Germany;1;0,003;0,002;0,002
+LP 20676;3,76023E+12;David Hillyard & The Rocksteady Seven;Burrulero;So Long Cedric;BEHC61800027;iTunes/Apple;Stream;Germany;1;0,006;0,005;0,005
+LP 20676;3,76023E+12;David Hillyard & The Rocksteady Seven;Burrulero;Kingston Town;BEHC61800025;Spotify;Stream;Germany;1;0,003;0,002;0,002
+;;;;;;;;;;;;
+total sales;total amount;v.a.t.;total value;;;;;;;;;
+1084;2,99;0;2,99 EURO;;;;;;;;;
